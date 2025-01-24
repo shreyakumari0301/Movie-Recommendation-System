@@ -4,7 +4,7 @@ Welcome to the **Movie Recommendation System**, an end-to-end content-based reco
 
 ---
 
-## 📜 Features
+## Features
 
 - **Content-Based Recommendations**: Suggests movies similar to a user-provided movie based on metadata (e.g., tags).
 - **Text Preprocessing**:
